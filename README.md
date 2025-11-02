@@ -1,17 +1,30 @@
-# 👋 Hi, I'm Samuel Genaro  
+<!-- Profile README -->
+<h1 align="center">👋 Hi, I'm Samuel Genaro</h1>
+<h3 align="center">🚀 Passionate Web Developer | Backend-Oriented | React & .NET Enthusiast</h3>
 
-💻 A passionate **Web Developer** (mainly backend, but I also enjoy exploring frontend stuff 😅).  
-🌱 Currently growing my skills in **React.js, Express.js, .NET Core, SQL, and MongoDB**.  
-🚀 Experienced in developing, debugging, and maintaining real-world systems during my internship using **.NET** and **JavaScript-based stacks**.  
-🎯 My goal is to become a **Senior Software Engineer** who builds scalable and impactful applications.  
+<p align="center">
+  🌱 Constantly learning and building using <b>React.js</b>, <b>Express.js</b>, <b>.NET Core</b>, <b>SQL</b>, and <b>MongoDB</b><br/>
+  💡 Always curious about clean architecture, scalability, and real-world software engineering<br/>
+  🎯 Goal: Become a <b>Senior Software Engineer</b> who builds impactful systems
+</p>
 
 ---
 
-### 🛠 Tech Stack  
+### 🧠 About Me  
+- 💻 Currently working with **.NET Core**, **Express.js**, and **React.js**  
+- 🧩 Experienced in developing, debugging, and maintaining internal systems during internships  
+- 🛠️ Passionate about building **ERP**, **task management**, and **attendance tracking systems**  
+- 🤝 Open to collaborations and learning through real-world projects  
+- 💬 Ask me about **backend logic**, **API integration**, and **system optimization**
+
+---
+
+### ⚙️ Tech Stack  
 
 **Frontend:**  
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 
 **Backend:**  
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
@@ -23,33 +36,46 @@
 ![SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
-**Version Control & Collaboration:**  
+**Version Control & Tools:**  
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![Pull Requests](https://img.shields.io/badge/Pull%20Requests-Active-brightgreen?style=for-the-badge&logo=github)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ---
 
-### 📊 GitHub Stats  
+### 📈 GitHub Insights  
 
-![Samuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=SaGerz&show_icons=true&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SaGerz&show_icons=true&theme=radical&count_private=true&include_all_commits=true&cache_seconds=1800" alt="Samuel's GitHub stats" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaGerz&layout=compact&theme=radical&langs_count=8" alt="Top Languages" height="180"/>
+</p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SaGerz&layout=compact&theme=radical&langs_count=8)  
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=SaGerz&theme=radical&hide_border=true" alt="GitHub Streak"/>
+</p>
 
 ---
 
-### 📌 About Me  
-- 🔎 Always curious to learn and build better web systems  
-- 🏗️ Interested in developing **ERP**, **task management**, and **attendance systems**  
-- 🧠 Enjoys improving system logic, debugging, and optimizing performance  
-- 🤝 Open to collaboration and contributing to open-source or team projects  
+### 🏆 Achievements  
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=SaGerz&theme=radical&no-frame=true&margin-w=10&row=1" alt="GitHub Trophies"/>
+</p>
 
 ---
 
 ### 🔗 Connect with Me  
-- [LinkedIn](https://id.linkedin.com/in/samuelgenaro)  
-- 📧 Email: **genarosamuel24@gmail.com**
+
+<p align="center">
+  <a href="https://id.linkedin.com/in/samuelgenaro">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:genarosamuel24@gmail.com">
+    <img src="https://img.shields.io/badge/Email-genarosamuel24%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
 
 ---
 
-✨ *"Coding is not just about writing code, it's about solving problems and creating impact."*
+<p align="center">✨ <i>"Coding is not just about writing code, it's about solving problems and creating impact."</i></p>
