@@ -32,7 +32,7 @@
 
 ### 📊 GitHub Stats  
 
-![Samuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=SaGerz&show_icons=true&theme=radical&count_private=true&include_all_commits=true&cache_seconds=1800)  
+![Samuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=SaGerz&show_icons=true&theme=radical)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SaGerz&layout=compact&theme=radical&langs_count=8)  
 
