@@ -1,6 +1,6 @@
 <!-- Profile README -->
 <h1 align="center">👋 Hi, I'm Samuel Genaro</h1>
-<h3 align="center">🚀 Passionate Web Developer | Backend-Oriented | React & .NET Enthusiast</h3>
+<h3 align="center">🚀 Passionate Web Developer | Backend-Oriented | React, Node JS & .NET Enthusiast</h3>
 
 <p align="center">
   🌱 Constantly learning and building using <b>React.js</b>, <b>Express.js</b>, <b>.NET Core</b>, <b>SQL</b>, and <b>MongoDB</b><br/>
