@@ -47,9 +47,29 @@
 ### 📈 GitHub Insights  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SaGerz&show_icons=true&theme=radical&count_private=true&include_all_commits=true&cache_seconds=1800" alt="Samuel's GitHub stats" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaGerz&layout=compact&theme=radical&langs_count=8" alt="Top Languages" height="180"/>
+  <!-- Main GitHub Stats -->
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=SaGerz&show_icons=true&theme=radical&count_private=true&include_all_commits=true&cache_seconds=1800" 
+    alt="Samuel's GitHub stats" 
+    height="180"
+  />
+  <!-- Top Languages -->
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaGerz&layout=compact&theme=radical&langs_count=8&cache_seconds=1800" 
+    alt="Top Languages" 
+    height="180"
+  />
 </p>
+
+<!-- Optional fallback if main API fails -->
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=SaGerz&show_icons=true&theme=tokyonight" 
+    alt="Backup GitHub stats" 
+    height="180"
+  />
+</p>
+
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=SaGerz&theme=radical&hide_border=true" alt="GitHub Streak"/>
