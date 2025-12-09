@@ -1,10 +1,10 @@
 <!-- Profile README -->
 <h1 align="center">👋 Hi, I'm Samuel Genaro</h1>
-<h3 align="center">🚀 Passionate Web Developer | Backend-Oriented | React, Node JS & .NET Enthusiast</h3>
+<h3 align="center">🚀 Passionate Web Developer | Backend-Oriented | React, Node.js & .NET Enthusiast</h3>
 
 <p align="center">
   🌱 Constantly learning and building using <b>React.js</b>, <b>Express.js</b>, <b>.NET Core</b>, <b>SQL</b>, and <b>MongoDB</b><br/>
-  💡 Always curious about clean architecture, scalability, and real-world software engineering<br/>
+  💡 Curious about clean architecture, scalability, and real-world software engineering<br/>
   🎯 Goal: Become a <b>Senior Software Engineer</b> who builds impactful systems
 </p>
 
@@ -13,9 +13,9 @@
 ### 🧠 About Me  
 - 💻 Currently working with **.NET Core**, **Express.js**, and **React.js**  
 - 🧩 Experienced in developing, debugging, and maintaining internal systems during internships  
-- 🛠️ Passionate about building **ERP**, **task management**, and **attendance tracking systems**  
-- 🤝 Open to collaborations and learning through real-world projects  
-- 💬 Ask me about **backend logic**, **API integration**, and **system optimization**
+- 🛠️ Passionate about **ERP**, **task management**, and **attendance tracking systems**  
+- 🤝 Open to collaborations and real-world learning  
+- 💬 Ask me about **backend logic**, **API integration**, and **system performance**
 
 ---
 
@@ -47,22 +47,23 @@
 ### 📈 GitHub Insights  
 
 <p align="center">
-  <!-- Main GitHub Stats -->
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=SaGerz&show_icons=true&theme=tokyonight" 
-    alt="Backup GitHub stats" 
+    src="https://github-readme-stats.vercel.app/api?username=SaGerz&show_icons=true&theme=tokyonight&cache_seconds=7200" 
+    alt="GitHub Stats"
     height="180"
   />
-  <!-- Top Languages -->
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaGerz&layout=compact&theme=radical&langs_count=8&cache_seconds=1800" 
-    alt="Top Languages" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaGerz&layout=compact&theme=radical&langs_count=8&cache_seconds=7200" 
+    alt="Top Languages"
     height="180"
   />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=SaGerz&theme=radical&hide_border=true" alt="GitHub Streak"/>
+  <img 
+    src="https://streak-stats.demolab.com?user=SaGerz&theme=radical&hide_border=true" 
+    alt="GitHub Streak"
+  />
 </p>
 
 ---
@@ -70,7 +71,10 @@
 ### 🏆 Achievements  
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SaGerz&theme=radical&no-frame=true&margin-w=10&row=1" alt="GitHub Trophies"/>
+  <img 
+    src="https://github-profile-trophy.vercel.app/?username=SaGerz&theme=radical&no-frame=true&margin-w=10&row=1&no-bg=true" 
+    alt="GitHub Trophies"
+  />
 </p>
 
 ---
