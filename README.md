@@ -1,7 +1,6 @@
 <!-- Profile README -->
 <h1 align="center">👋 Hi, I'm Samuel Genaro</h1>
 <h3 align="center">🚀 Passionate Web Developer | Backend-Oriented | React, Node.js & .NET Enthusiast</h3>
-
 <p align="center">
   🌱 Constantly learning and building using <b>React.js</b>, <b>Express.js</b>, <b>.NET Core</b>, <b>SQL</b>, and <b>MongoDB</b><br/>
   💡 Curious about clean architecture, scalability, and real-world software engineering<br/>
@@ -20,7 +19,6 @@
 ---
 
 ### ⚙️ Tech Stack  
-
 **Frontend:**  
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
@@ -45,23 +43,22 @@
 ---
 
 ### 📈 GitHub Insights  
-
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=SaGerz&show_icons=true&theme=tokyonight&cache_seconds=7200" 
+    src="https://github-readme-stats.vercel.app/api?username=SaGerz&show_icons=true&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" 
     alt="GitHub Stats"
-    height="180"
+    height="170"
   />
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaGerz&layout=compact&theme=radical&langs_count=8&cache_seconds=7200" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaGerz&layout=compact&theme=tokyonight&hide_border=false&langs_count=8" 
     alt="Top Languages"
-    height="180"
+    height="170"
   />
 </p>
 
 <p align="center">
   <img 
-    src="https://streak-stats.demolab.com?user=SaGerz&theme=radical&hide_border=true" 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=SaGerz&theme=tokyonight&hide_border=false" 
     alt="GitHub Streak"
   />
 </p>
@@ -69,10 +66,9 @@
 ---
 
 ### 🏆 Achievements  
-
 <p align="center">
   <img 
-    src="https://github-profile-trophy.vercel.app/?username=SaGerz&theme=radical&no-frame=true&margin-w=10&row=1&no-bg=true" 
+    src="https://github-profile-trophy.vercel.app/?username=SaGerz&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4&column=7" 
     alt="GitHub Trophies"
   />
 </p>
@@ -80,7 +76,6 @@
 ---
 
 ### 🔗 Connect with Me  
-
 <p align="center">
   <a href="https://id.linkedin.com/in/samuelgenaro">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
