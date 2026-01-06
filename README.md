@@ -44,22 +44,26 @@
 
 ### 📈 GitHub Insights  
 <p align="center">
+  <!-- Primary Stats -->
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=SaGerz&show_icons=true&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" 
+    src="https://github-readme-stats.vercel.app/api?username=SaGerz&show_icons=true&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&cache_seconds=1800" 
     alt="GitHub Stats"
     height="170"
   />
+  
+  <!-- Streak Stats (biasanya lebih stabil) -->
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaGerz&layout=compact&theme=tokyonight&hide_border=false&langs_count=8" 
-    alt="Top Languages"
+    src="https://streak-stats.demolab.com/?user=SaGerz&theme=tokyonight&hide_border=false" 
+    alt="GitHub Streak"
     height="170"
   />
 </p>
 
 <p align="center">
+  <!-- Activity Graph (alternatif kalau stats error) -->
   <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=SaGerz&theme=tokyonight&hide_border=false" 
-    alt="GitHub Streak"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=SaGerz&theme=tokyo-night&hide_border=true" 
+    alt="Contribution Graph"
   />
 </p>
 
