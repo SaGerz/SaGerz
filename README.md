@@ -43,27 +43,47 @@
 ---
 
 ### 📈 GitHub Insights  
+<!-- Overview Stats -->
 <p align="center">
-  <!-- Primary Stats -->
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=SaGerz&show_icons=true&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&cache_seconds=1800" 
-    alt="GitHub Stats"
-    height="170"
-  />
-  
-  <!-- Streak Stats (biasanya lebih stabil) -->
-  <img 
-    src="https://streak-stats.demolab.com/?user=SaGerz&theme=tokyonight&hide_border=false" 
-    alt="GitHub Streak"
-    height="170"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SaGerz&theme=tokyonight" 
+    alt="Detailed Stats"
   />
 </p>
 
+<!-- Stats & Productive Time -->
 <p align="center">
-  <!-- Activity Graph (alternatif kalau stats error) -->
   <img 
-    src="https://github-readme-activity-graph.vercel.app/graph?username=SaGerz&theme=tokyo-night&hide_border=true" 
-    alt="Contribution Graph"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SaGerz&theme=tokyonight" 
+    alt="Stats"
+    height="200"
+  />
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SaGerz&theme=tokyonight&utcOffset=7" 
+    alt="Productive Time"
+    height="200"
+  />
+</p>
+
+<!-- Commit Details (nampilin PR juga) -->
+<p align="center">
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SaGerz&theme=tokyonight" 
+    alt="Repos per Language"
+    height="200"
+  />
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SaGerz&theme=tokyonight" 
+    alt="Most Commit Language"
+    height="200"
+  />
+</p>
+
+<!-- Streak -->
+<p align="center">
+  <img 
+    src="https://streak-stats.demolab.com/?user=SaGerz&theme=tokyonight&hide_border=false" 
+    alt="GitHub Streak"
   />
 </p>
 
